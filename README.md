@@ -10,3 +10,5 @@
 [第18章（子网划分）](https://github.com/RaguelFoReveR/RoutingSwitchingTech/issues/7)</br>
 [第19~22章（网络层协议）](https://github.com/RaguelFoReveR/RoutingSwitchingTech/issues/8)</br>
 [23-24章TCP和UDP（传输层）](https://github.com/RaguelFoReveR/RoutingSwitchingTech/issues/9)</br>
+[25-27章DNS域名,FTP和其他协议
+（应用层）](https://github.com/RaguelFoReveR/RoutingSwitchingTech/issues/10)</br>
